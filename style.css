@@ -9,6 +9,19 @@ header {
 font-size: x-large;
 }
 
+#header1 {
+display: flex;
+justify-content:  center;
+align-items: center;
+padding: 40px;
+
+
+}
+
+#header1 h1 {
+	margin: 30px;
+}
+
 #main {
   width: 200px;
   border: 1px dotted black;
