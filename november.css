@@ -5,8 +5,11 @@ body {
 
 header {
   text-align: center;
-  color: #df0e0e;
+  color: #f1da0b;
+  border-color: black;
 font-size: x-large;
+
+
 }
 
 #header1 {
@@ -18,13 +21,15 @@ padding: 40px;
 }
 
 #main-header {
-	background-image: url("https://raw.githubusercontent.com/roguedronegithub/Capstone2/master/image/christmas.jpeg");
+	background-image: url("https://raw.githubusercontent.com/roguedronegithub/Capstone2/master/image/november.jpeg");
 background-repeat: no-repeat;
 background-size: 100%;
+background-position: 5px;
 }
 
 #header1 h1 {
-	margin: 30px;
+  margin: 30px;
+
 
 }
 
@@ -39,6 +44,11 @@ h1 {
 
 button {
   float: right;
+  color: #26f10b;
+ font-size: 20px;
+ border-radius: 5px;
+ border: 2px solid black;
+width: 90px;
 }
 
 
@@ -75,7 +85,7 @@ button {
 
 #calendar ul.weekdays {
 	height: 40px;
-	background: rgb(2, 126, 2);
+	background: rgb(219, 135, 8);
 }
 
 #calendar ul.weekdays li {
