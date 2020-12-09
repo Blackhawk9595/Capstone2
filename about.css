@@ -1,9 +1,20 @@
+document {
 
+background-color: lightslategray;
 
-body {
-
-  background-color: lightslategray;
 }
-header {
+
+section {
 font-size: 100px;
+color: maroon;
+}
+p {
+
+  color: red;
+}
+
+h1 {
+
+  font: monospace;
+  color: red;
 }
